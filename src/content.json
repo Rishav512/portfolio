@@ -20,8 +20,8 @@
     "socialLinks": [
       {
         "name": "GitHub",
-        "url": "https://github.com/rishavnanda56",
-        "username": "@rishavnanda56",
+        "url": "https://github.com/Rishav512",
+        "username": "@Rishav512",
         "icon": "Github"
       },
       {
@@ -215,7 +215,7 @@
       ],
       "techStack": ["React Native", "Node.js", "Redux Toolkit", "Redis", "PostgreSQL", "Elasticsearch", "Docker", "Kubernetes", "Kafka"],
       "liveUrl": "",
-      "githubUrl": "https://github.com/rishavnanda56"
+      "githubUrl": "https://github.com/Rishav512"
     },
     {
       "id": "ap-automation",
@@ -236,7 +236,7 @@
       ],
       "techStack": ["React.js", "TypeScript", "Redux Toolkit", "Azure DevOps", "SAP BTP", "List Virtualization"],
       "liveUrl": "",
-      "githubUrl": "https://github.com/rishavnanda56"
+      "githubUrl": "https://github.com/Rishav512"
     },
     {
       "id": "einvoice-recon",
@@ -257,7 +257,7 @@
       ],
       "techStack": ["React.js", "Material-UI", "Tailwind CSS", "RESTful APIs", "Chart.js"],
       "liveUrl": "",
-      "githubUrl": "https://github.com/rishavnanda56"
+      "githubUrl": "https://github.com/Rishav512"
     },
     {
       "id": "isro-telemetry",
@@ -278,7 +278,7 @@
       ],
       "techStack": ["HFSS", "CST Studio", "Python", "Data Processing", "LEO Telemetry"],
       "liveUrl": "",
-      "githubUrl": "https://github.com/rishavnanda56"
+      "githubUrl": "https://github.com/Rishav512"
     }
   ],
   "education": {

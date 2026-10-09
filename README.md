@@ -117,8 +117,8 @@ All form messages sent by visitors will automatically arrive at `contact@rishav.
    git add .
    git commit -m "Initial commit: Rishav Nanda portfolio"
    git branch -M main
-   git remote add origin https://github.com/rishavnanda56/portfolio.git
-   git push -u origin main
+   git remote set-url origin https://github.com/Rishav512/portfolio.git
+   git push -u origin master
    ```
 2. Go to [vercel.com](https://vercel.com/) and click **"Add New Project"**.
 3. Import your GitHub repository.
