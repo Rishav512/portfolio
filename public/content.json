@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "siteTitle": "Rishav Nanda | Frontend & Full-Stack Software Engineer",
+    "metaDescription": "Portfolio of Rishav Nanda — Frontend & Full-Stack Software Engineer specializing in high-performance enterprise React applications, micro-frontends, Node.js, and cloud systems.",
+    "domain": "rishav.work",
+    "canonicalUrl": "https://rishav.work",
+    "themeColor": "#080616"
+  },
+  "personal": {
+    "name": "Rishav Nanda",
+    "role": "Frontend & Full-Stack Software Engineer",
+    "badge": "Available for high-impact roles & engineering",
+    "email": "contact@rishav.work",
+    "location": "Bhubaneswar, India",
+    "bioLead": "Engineering high-performance enterprise web applications, modular micro-frontends, and resilient cloud architectures.",
+    "bioFull": "Results-driven Software Engineer with 3+ years of experience in enterprise full-stack development. Proven record delivering modular micro-frontends with 95% client satisfaction, slashing render latency by 5x using modern web speculation and windowed virtualization, and automating mission-critical workflows with zero delivery slippage.",
+    "experienceYears": "3+",
+    "renderSpeedMultiplier": "5x",
+    "clientSatisfaction": "95%",
+    "socialLinks": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/rishavnanda56",
+        "username": "@rishavnanda56",
+        "icon": "Github"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/rishavnanda",
+        "username": "rishavnanda",
+        "icon": "Linkedin"
+      },
+      {
+        "name": "LeetCode",
+        "url": "https://leetcode.com/rishavnanda56",
+        "username": "rishavnanda56",
+        "icon": "Code2"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:contact@rishav.work",
+        "username": "contact@rishav.work",
+        "icon": "Mail"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Years Experience",
+      "subtext": "Enterprise Agile SDLC"
+    },
+    {
+      "value": "5x",
+      "label": "Render Speedup",
+      "subtext": "Virtualization & Speculation"
+    },
+    {
+      "value": "95%",
+      "label": "Client CSAT",
+      "subtext": "4+ Enterprise Systems"
+    },
+    {
+      "value": "ISRO",
+      "label": "Research Alum",
+      "subtext": "Telemetry & S-Band Arrays"
+    }
+  ],
+  "expertiseHighlights": [
+    {
+      "title": "Micro-Frontends & UI Architecture",
+      "description": "Architecting decoupled, federated frontend modules that enable independent enterprise deployments with sub-millisecond route transitions.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Extreme UI Performance",
+      "description": "Virtualizing 10k+ rows, implementing web speculation rules, and debouncing pipeline states to cut render latency by 5x.",
+      "icon": "Zap"
+    },
+    {
+      "title": "Event-Driven Backends",
+      "description": "Designing resilient pipelines with Apache Kafka, Redis caching, Elasticsearch queries, and idempotent transactions.",
+      "icon": "Server"
+    },
+    {
+      "title": "CI/CD & Cloud Orchestration",
+      "description": "Automating zero-downtime pipelines on Azure DevOps & SAP BTP, containerizing microservices on Docker & Kubernetes.",
+      "icon": "Cloud"
+    }
+  ],
+  "skillsCategories": [
+    {
+      "category": "Frontend & UI",
+      "description": "Building lightning-fast, accessible, and reactive user interfaces.",
+      "skills": [
+        { "name": "React.js", "level": "Expert", "highlight": true },
+        { "name": "TypeScript", "level": "Expert", "highlight": true },
+        { "name": "Next.js", "level": "Advanced", "highlight": true },
+        { "name": "React Native", "level": "Advanced", "highlight": true },
+        { "name": "Redux Toolkit", "level": "Expert", "highlight": false },
+        { "name": "Tailwind CSS", "level": "Expert", "highlight": false },
+        { "name": "Material-UI", "level": "Advanced", "highlight": false },
+        { "name": "Web Vitals Tuning", "level": "Expert", "highlight": true },
+        { "name": "Windowed Virtualization", "level": "Expert", "highlight": false },
+        { "name": "HTML5 / CSS3", "level": "Master", "highlight": false }
+      ]
+    },
+    {
+      "category": "Backend & Cloud",
+      "description": "Scalable REST APIs, distributed messaging, and high-concurrency databases.",
+      "skills": [
+        { "name": "Node.js", "level": "Expert", "highlight": true },
+        { "name": "Express.js", "level": "Advanced", "highlight": false },
+        { "name": "Apache Kafka", "level": "Advanced", "highlight": true },
+        { "name": "Elasticsearch", "level": "Advanced", "highlight": true },
+        { "name": "PostgreSQL", "level": "Advanced", "highlight": false },
+        { "name": "Redis Cache", "level": "Advanced", "highlight": true },
+        { "name": "RESTful APIs", "level": "Expert", "highlight": false },
+        { "name": "Microservices", "level": "Advanced", "highlight": false }
+      ]
+    },
+    {
+      "category": "DevOps & Infrastructure",
+      "description": "Automated build gates, containerized clusters, and cloud workflows.",
+      "skills": [
+        { "name": "Docker", "level": "Advanced", "highlight": true },
+        { "name": "Kubernetes", "level": "Proficient", "highlight": true },
+        { "name": "Azure DevOps", "level": "Advanced", "highlight": true },
+        { "name": "SAP BTP", "level": "Advanced", "highlight": false },
+        { "name": "CI/CD Pipelines", "level": "Expert", "highlight": false },
+        { "name": "Git & GitHub", "level": "Expert", "highlight": false }
+      ]
+    },
+    {
+      "category": "Testing, Core & Tools",
+      "description": "Rigorous automated testing, algorithmic logic, and AI developer workflows.",
+      "skills": [
+        { "name": "Data Structures & Alg", "level": "Advanced", "highlight": true },
+        { "name": "OOP & System Design", "level": "Advanced", "highlight": false },
+        { "name": "Jest & RTL", "level": "Advanced", "highlight": false },
+        { "name": "Cursor IDE & AI Debugging", "level": "Expert", "highlight": true },
+        { "name": "Postman & OpenAPI", "level": "Advanced", "highlight": false },
+        { "name": "Figma", "level": "Proficient", "highlight": false },
+        { "name": "Python & C++", "level": "Proficient", "highlight": false }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "incture-se",
+      "role": "Software Engineer",
+      "company": "Incture Technologies",
+      "location": "Bhubaneswar, India",
+      "period": "Jul 2023 – Present",
+      "status": "Current",
+      "summary": "Leading enterprise frontend micro-architectures, client engagements, and rendering performance optimizations across business-critical digital suites.",
+      "highlights": [
+        "Spearheaded 4+ enterprise client implementations, architecting modular React frontend micro-frontends with a 95% client satisfaction rate.",
+        "Led sprint technical scoping and direct client engagements, translating functional requirements into UI roadmaps with zero delivery slippage.",
+        "Engineered Accounts Payable Automation frontend with React.js & Redux Toolkit, building 10+ reusable components cutting rollout cycles by 20%.",
+        "Accelerated site rendering speeds by 5x utilizing web speculation rules, windowed list virtualization, and debounced filter pipelines.",
+        "Automated CI/CD pipelines via Azure DevOps and SAP BTP, decreasing deployment failures by 30% with standardized build quality gates.",
+        "Mentored junior engineers across 15+ technical KT sessions on React state management, lifecycle patterns, and enterprise debugging."
+      ],
+      "technologies": ["React.js", "TypeScript", "Redux Toolkit", "Next.js", "Azure DevOps", "SAP BTP", "Windowed Virtualization", "Web Speculation"]
+    },
+    {
+      "id": "incture-intern",
+      "role": "Associate Software Engineer – Intern",
+      "company": "Incture Technologies",
+      "location": "Bhubaneswar, India",
+      "period": "Jan 2023 – Jun 2023",
+      "status": "Completed",
+      "summary": "Built high-throughput analytics dashboards and automated B2B invoicing integrations for top-tier enterprise clients.",
+      "highlights": [
+        "Developed responsive, role-based analytics dashboards featuring dynamic KPI data visualizations, cutting executive reporting latency by 40%.",
+        "Implemented automated E-Invoice workflows integrated with supplier PO endpoints, speeding invoice reconciliation for 50+ enterprise vendors.",
+        "Built reusable UI modules conforming to enterprise design standards using React.js, Material-UI, and Tailwind CSS."
+      ],
+      "technologies": ["React.js", "Material-UI", "Tailwind CSS", "REST APIs", "Analytics Dashboards"]
+    },
+    {
+      "id": "isro-intern",
+      "role": "Research Intern",
+      "company": "ISRO (VSSC, ISTRAC)",
+      "location": "Trivandrum & Bangalore, India",
+      "period": "Jun 2022 – Jul 2022",
+      "status": "Completed",
+      "summary": "Space research and telemetry engineering at the Indian Space Research Organisation ground stations.",
+      "highlights": [
+        "Simulated S-band Microstrip Patch Array Antennas (2–4 GHz) using HFSS and CST, improving antenna gain by 18% and bandwidth efficiency by 15%.",
+        "Monitored live telemetry data feeds and executed standardized satellite command sequence checks for Low Earth Orbit (LEO) passes at ISTRAC operations."
+      ],
+      "technologies": ["HFSS", "CST Microwave", "Python", "Telemetry Protocols", "RF Simulation"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "look-platform",
+      "title": "LOOK – Salon Booking Platform",
+      "badge": "Production Side Project",
+      "period": "Mar 2025 – Present",
+      "role": "Lead Full-Stack & Mobile Architect",
+      "description": "High-concurrency mobile marketplace connecting users with beauty salons, featuring real-time slot scheduling, instant discovery, and offline sync.",
+      "metrics": [
+        { "label": "Query Latency", "value": "-70%" },
+        { "label": "Service Latency", "value": "-30%" },
+        { "label": "Cluster Uptime", "value": "99.5%" }
+      ],
+      "details": [
+        "Built cross-platform mobile UI in React Native featuring fluid animations, localized caching, and persistent offline state management.",
+        "Integrated Elasticsearch indexing for multi-parameter salon and slot availability searches, reducing query response times by 70%.",
+        "Engineered event-driven booking pipeline with Apache Kafka, reducing inter-service latency by 30% with idempotent transactions.",
+        "Containerized microservices via Docker and orchestrated on Kubernetes, maintaining 99.5% service uptime across clusters."
+      ],
+      "techStack": ["React Native", "Node.js", "Redux Toolkit", "Redis", "PostgreSQL", "Elasticsearch", "Docker", "Kubernetes", "Kafka"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/rishavnanda56"
+    },
+    {
+      "id": "ap-automation",
+      "title": "Enterprise Accounts Payable Automation",
+      "badge": "Enterprise Production",
+      "period": "2023 – 2024",
+      "role": "Lead Frontend Engineer",
+      "description": "Modular micro-frontend accounting suite handling massive data sets, automated invoice approvals, and multi-tier purchase order reconciliation.",
+      "metrics": [
+        { "label": "Render Speedup", "value": "5x" },
+        { "label": "Rollout Cycle", "value": "-20%" },
+        { "label": "Quality Gates", "value": "-30% Failures" }
+      ],
+      "details": [
+        "Architected modular micro-frontend components serving multiple enterprise departments with shared state hydration.",
+        "Implemented windowed virtualization and speculative route pre-fetching for instant pagination across 10,000+ line items.",
+        "Created an extensible component library cutting release turnaround from weeks to days."
+      ],
+      "techStack": ["React.js", "TypeScript", "Redux Toolkit", "Azure DevOps", "SAP BTP", "List Virtualization"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/rishavnanda56"
+    },
+    {
+      "id": "einvoice-recon",
+      "title": "Dynamic E-Invoice Reconciliation Engine",
+      "badge": "Enterprise Workflow",
+      "period": "2023",
+      "role": "Full-Stack Contributor",
+      "description": "Real-time automated reconciliation platform processing complex supplier invoice streams against purchase order line endpoints.",
+      "metrics": [
+        { "label": "Vendor Capacity", "value": "50+ Vendors" },
+        { "label": "Reporting Speed", "value": "+40%" },
+        { "label": "Accuracy", "value": "100%" }
+      ],
+      "details": [
+        "Engineered interactive analytics dashboards with dynamic KPI visualizations, accelerating executive decision-making.",
+        "Constructed automated invoice validation rules that eliminated manual data entry errors for 50+ major suppliers.",
+        "Designed standardized responsive UI widgets with Material-UI and custom CSS design tokens."
+      ],
+      "techStack": ["React.js", "Material-UI", "Tailwind CSS", "RESTful APIs", "Chart.js"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/rishavnanda56"
+    },
+    {
+      "id": "isro-telemetry",
+      "title": "S-Band Satellite Telemetry & Antenna Simulator",
+      "badge": "Aerospace Research",
+      "period": "2022",
+      "role": "Research Intern (ISRO)",
+      "description": "Precision RF computational simulation and real-time Low Earth Orbit satellite pass telemetry monitoring system at ISTRAC.",
+      "metrics": [
+        { "label": "Antenna Gain", "value": "+18%" },
+        { "label": "Bandwidth Efficiency", "value": "+15%" },
+        { "label": "Pass Frequency", "value": "2–4 GHz" }
+      ],
+      "details": [
+        "Simulated 2–4 GHz S-band microstrip patch array antenna configurations on HFSS and CST Microwave Studio.",
+        "Executed live telemetry verification protocols for LEO satellite operations during active ground station passes.",
+        "Evaluated electromagnetic scattering and signal-to-noise thresholds for deep-space communications."
+      ],
+      "techStack": ["HFSS", "CST Studio", "Python", "Data Processing", "LEO Telemetry"],
+      "liveUrl": "",
+      "githubUrl": "https://github.com/rishavnanda56"
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Electronics & Telecommunication Engineering",
+    "institution": "Veer Surendra Sai University of Technology (VSSUT)",
+    "location": "Sambalpur, Odisha, India",
+    "period": "Aug 2019 – May 2023",
+    "grade": "CGPA: 8.39 / 10.00",
+    "highlights": [
+      "Specialization in Digital Signal Processing, Embedded Systems, and Advanced Data Communications",
+      "Active participant in tech symposiums, coding competitions, and algorithmic problem solving"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "AWS Certified: Cloud Foundations",
+      "issuer": "Amazon Web Services",
+      "icon": "Cloud",
+      "date": "Certified"
+    },
+    {
+      "title": "Cisco Certified: CCNA – Intro to Networks",
+      "issuer": "Cisco Systems",
+      "icon": "ShieldCheck",
+      "date": "Certified"
+    },
+    {
+      "title": "Responsive Web Design",
+      "issuer": "freeCodeCamp",
+      "icon": "Code2",
+      "date": "Certified"
+    },
+    {
+      "title": "Intro to Data Science in Python",
+      "issuer": "Coursera",
+      "icon": "Cpu",
+      "date": "Certified"
+    }
+  ],
+  "contact": {
+    "title": "Let's build something extraordinary together.",
+    "subtitle": "Whether you are looking to architect an enterprise frontend, scale your distributed backend, or discuss an exciting engineering opportunity, my inbox is always open.",
+    "email": "contact@rishav.work",
+    "location": "Bhubaneswar, India (Open to Remote & Relocation)",
+    "responseRate": "Typically responds within 24 hours",
+    "web3FormsAccessKey": "e99fca31-7fd5-45a7-96a1-949d2dfaa446",
+    "formFields": {
+      "nameLabel": "Your Name",
+      "namePlaceholder": "Jane Doe",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "jane@example.com",
+      "subjectLabel": "Subject / Topic",
+      "subjectPlaceholder": "Project Consultation / Engineering Role",
+      "messageLabel": "Your Message",
+      "messagePlaceholder": "Tell me about your project, timeline, or open engineering position...",
+      "submitButton": "Send Message",
+      "submittingText": "Transmitting..."
+    }
+  },
+  "footer": {
+    "tagline": "Designed & engineered with precision.",
+    "copyright": "© 2026 Rishav Nanda. All rights reserved.",
+    "domain": "rishav.work"
+  }
+}
