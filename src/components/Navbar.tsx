@@ -21,7 +21,6 @@ export const Navbar: React.FC<NavbarProps> = ({ personalName, badge, domain }) =
           <div className="monogram-badge">RN</div>
           <div>
             <span className="brand-text">{personalName}</span>
-            <span className="brand-domain">.{domain.split('.').pop() || 'work'}</span>
           </div>
         </a>
 
@@ -49,7 +48,7 @@ export const Navbar: React.FC<NavbarProps> = ({ personalName, badge, domain }) =
           </a>
 
           {/* Mobile menu toggle */}
-          <button 
+          <button
             type="button"
             className="mobile-nav-toggle"
             onClick={toggleMobileMenu}
