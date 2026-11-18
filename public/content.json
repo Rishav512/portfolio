@@ -26,7 +26,7 @@
       },
       {
         "name": "LinkedIn",
-        "url": "https://linkedin.com/in/rishavnanda",
+        "url": "https://linkedin.com/in/rishavnanda0512",
         "username": "rishavnanda",
         "icon": "Linkedin"
       },
@@ -93,55 +93,179 @@
       "category": "Frontend & UI",
       "description": "Building lightning-fast, accessible, and reactive user interfaces.",
       "skills": [
-        { "name": "React.js", "level": "Expert", "highlight": true },
-        { "name": "TypeScript", "level": "Expert", "highlight": true },
-        { "name": "Next.js", "level": "Advanced", "highlight": true },
-        { "name": "React Native", "level": "Advanced", "highlight": true },
-        { "name": "Redux Toolkit", "level": "Expert", "highlight": false },
-        { "name": "Tailwind CSS", "level": "Expert", "highlight": false },
-        { "name": "Material-UI", "level": "Advanced", "highlight": false },
-        { "name": "Web Vitals Tuning", "level": "Expert", "highlight": true },
-        { "name": "Windowed Virtualization", "level": "Expert", "highlight": false },
-        { "name": "HTML5 / CSS3", "level": "Master", "highlight": false }
+        {
+          "name": "React.js",
+          "level": "Expert",
+          "highlight": true
+        },
+        {
+          "name": "TypeScript",
+          "level": "Expert",
+          "highlight": true
+        },
+        {
+          "name": "Next.js",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "React Native",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "Redux Toolkit",
+          "level": "Expert",
+          "highlight": false
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": "Expert",
+          "highlight": false
+        },
+        {
+          "name": "Material-UI",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Web Vitals Tuning",
+          "level": "Expert",
+          "highlight": true
+        },
+        {
+          "name": "Windowed Virtualization",
+          "level": "Expert",
+          "highlight": false
+        },
+        {
+          "name": "HTML5 / CSS3",
+          "level": "Master",
+          "highlight": false
+        }
       ]
     },
     {
       "category": "Backend & Cloud",
       "description": "Scalable REST APIs, distributed messaging, and high-concurrency databases.",
       "skills": [
-        { "name": "Node.js", "level": "Expert", "highlight": true },
-        { "name": "Express.js", "level": "Advanced", "highlight": false },
-        { "name": "Apache Kafka", "level": "Advanced", "highlight": true },
-        { "name": "Elasticsearch", "level": "Advanced", "highlight": true },
-        { "name": "PostgreSQL", "level": "Advanced", "highlight": false },
-        { "name": "Redis Cache", "level": "Advanced", "highlight": true },
-        { "name": "RESTful APIs", "level": "Expert", "highlight": false },
-        { "name": "Microservices", "level": "Advanced", "highlight": false }
+        {
+          "name": "Node.js",
+          "level": "Expert",
+          "highlight": true
+        },
+        {
+          "name": "Express.js",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Apache Kafka",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "Elasticsearch",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "PostgreSQL",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Redis Cache",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "RESTful APIs",
+          "level": "Expert",
+          "highlight": false
+        },
+        {
+          "name": "Microservices",
+          "level": "Advanced",
+          "highlight": false
+        }
       ]
     },
     {
       "category": "DevOps & Infrastructure",
       "description": "Automated build gates, containerized clusters, and cloud workflows.",
       "skills": [
-        { "name": "Docker", "level": "Advanced", "highlight": true },
-        { "name": "Kubernetes", "level": "Proficient", "highlight": true },
-        { "name": "Azure DevOps", "level": "Advanced", "highlight": true },
-        { "name": "SAP BTP", "level": "Advanced", "highlight": false },
-        { "name": "CI/CD Pipelines", "level": "Expert", "highlight": false },
-        { "name": "Git & GitHub", "level": "Expert", "highlight": false }
+        {
+          "name": "Docker",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "Kubernetes",
+          "level": "Proficient",
+          "highlight": true
+        },
+        {
+          "name": "Azure DevOps",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "SAP BTP",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "CI/CD Pipelines",
+          "level": "Expert",
+          "highlight": false
+        },
+        {
+          "name": "Git & GitHub",
+          "level": "Expert",
+          "highlight": false
+        }
       ]
     },
     {
       "category": "Testing, Core & Tools",
       "description": "Rigorous automated testing, algorithmic logic, and AI developer workflows.",
       "skills": [
-        { "name": "Data Structures & Alg", "level": "Advanced", "highlight": true },
-        { "name": "OOP & System Design", "level": "Advanced", "highlight": false },
-        { "name": "Jest & RTL", "level": "Advanced", "highlight": false },
-        { "name": "Cursor IDE & AI Debugging", "level": "Expert", "highlight": true },
-        { "name": "Postman & OpenAPI", "level": "Advanced", "highlight": false },
-        { "name": "Figma", "level": "Proficient", "highlight": false },
-        { "name": "Python & C++", "level": "Proficient", "highlight": false }
+        {
+          "name": "Data Structures & Alg",
+          "level": "Advanced",
+          "highlight": true
+        },
+        {
+          "name": "OOP & System Design",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Jest & RTL",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Cursor IDE & AI Debugging",
+          "level": "Expert",
+          "highlight": true
+        },
+        {
+          "name": "Postman & OpenAPI",
+          "level": "Advanced",
+          "highlight": false
+        },
+        {
+          "name": "Figma",
+          "level": "Proficient",
+          "highlight": false
+        },
+        {
+          "name": "Python & C++",
+          "level": "Proficient",
+          "highlight": false
+        }
       ]
     }
   ],
@@ -162,7 +286,16 @@
         "Automated CI/CD pipelines via Azure DevOps and SAP BTP, decreasing deployment failures by 30% with standardized build quality gates.",
         "Mentored junior engineers across 15+ technical KT sessions on React state management, lifecycle patterns, and enterprise debugging."
       ],
-      "technologies": ["React.js", "TypeScript", "Redux Toolkit", "Next.js", "Azure DevOps", "SAP BTP", "Windowed Virtualization", "Web Speculation"]
+      "technologies": [
+        "React.js",
+        "TypeScript",
+        "Redux Toolkit",
+        "Next.js",
+        "Azure DevOps",
+        "SAP BTP",
+        "Windowed Virtualization",
+        "Web Speculation"
+      ]
     },
     {
       "id": "incture-intern",
@@ -177,7 +310,13 @@
         "Implemented automated E-Invoice workflows integrated with supplier PO endpoints, speeding invoice reconciliation for 50+ enterprise vendors.",
         "Built reusable UI modules conforming to enterprise design standards using React.js, Material-UI, and Tailwind CSS."
       ],
-      "technologies": ["React.js", "Material-UI", "Tailwind CSS", "REST APIs", "Analytics Dashboards"]
+      "technologies": [
+        "React.js",
+        "Material-UI",
+        "Tailwind CSS",
+        "REST APIs",
+        "Analytics Dashboards"
+      ]
     },
     {
       "id": "isro-intern",
@@ -191,7 +330,13 @@
         "Simulated S-band Microstrip Patch Array Antennas (2–4 GHz) using HFSS and CST, improving antenna gain by 18% and bandwidth efficiency by 15%.",
         "Monitored live telemetry data feeds and executed standardized satellite command sequence checks for Low Earth Orbit (LEO) passes at ISTRAC operations."
       ],
-      "technologies": ["HFSS", "CST Microwave", "Python", "Telemetry Protocols", "RF Simulation"]
+      "technologies": [
+        "HFSS",
+        "CST Microwave",
+        "Python",
+        "Telemetry Protocols",
+        "RF Simulation"
+      ]
     }
   ],
   "projects": [
@@ -203,9 +348,18 @@
       "role": "Lead Full-Stack & Mobile Architect",
       "description": "High-concurrency mobile marketplace connecting users with beauty salons, featuring real-time slot scheduling, instant discovery, and offline sync.",
       "metrics": [
-        { "label": "Query Latency", "value": "-70%" },
-        { "label": "Service Latency", "value": "-30%" },
-        { "label": "Cluster Uptime", "value": "99.5%" }
+        {
+          "label": "Query Latency",
+          "value": "-70%"
+        },
+        {
+          "label": "Service Latency",
+          "value": "-30%"
+        },
+        {
+          "label": "Cluster Uptime",
+          "value": "99.5%"
+        }
       ],
       "details": [
         "Built cross-platform mobile UI in React Native featuring fluid animations, localized caching, and persistent offline state management.",
@@ -213,7 +367,17 @@
         "Engineered event-driven booking pipeline with Apache Kafka, reducing inter-service latency by 30% with idempotent transactions.",
         "Containerized microservices via Docker and orchestrated on Kubernetes, maintaining 99.5% service uptime across clusters."
       ],
-      "techStack": ["React Native", "Node.js", "Redux Toolkit", "Redis", "PostgreSQL", "Elasticsearch", "Docker", "Kubernetes", "Kafka"],
+      "techStack": [
+        "React Native",
+        "Node.js",
+        "Redux Toolkit",
+        "Redis",
+        "PostgreSQL",
+        "Elasticsearch",
+        "Docker",
+        "Kubernetes",
+        "Kafka"
+      ],
       "liveUrl": "",
       "githubUrl": "https://github.com/Rishav512"
     },
@@ -225,16 +389,32 @@
       "role": "Lead Frontend Engineer",
       "description": "Modular micro-frontend accounting suite handling massive data sets, automated invoice approvals, and multi-tier purchase order reconciliation.",
       "metrics": [
-        { "label": "Render Speedup", "value": "5x" },
-        { "label": "Rollout Cycle", "value": "-20%" },
-        { "label": "Quality Gates", "value": "-30% Failures" }
+        {
+          "label": "Render Speedup",
+          "value": "5x"
+        },
+        {
+          "label": "Rollout Cycle",
+          "value": "-20%"
+        },
+        {
+          "label": "Quality Gates",
+          "value": "-30% Failures"
+        }
       ],
       "details": [
         "Architected modular micro-frontend components serving multiple enterprise departments with shared state hydration.",
         "Implemented windowed virtualization and speculative route pre-fetching for instant pagination across 10,000+ line items.",
         "Created an extensible component library cutting release turnaround from weeks to days."
       ],
-      "techStack": ["React.js", "TypeScript", "Redux Toolkit", "Azure DevOps", "SAP BTP", "List Virtualization"],
+      "techStack": [
+        "React.js",
+        "TypeScript",
+        "Redux Toolkit",
+        "Azure DevOps",
+        "SAP BTP",
+        "List Virtualization"
+      ],
       "liveUrl": "",
       "githubUrl": "https://github.com/Rishav512"
     },
@@ -246,16 +426,31 @@
       "role": "Full-Stack Contributor",
       "description": "Real-time automated reconciliation platform processing complex supplier invoice streams against purchase order line endpoints.",
       "metrics": [
-        { "label": "Vendor Capacity", "value": "50+ Vendors" },
-        { "label": "Reporting Speed", "value": "+40%" },
-        { "label": "Accuracy", "value": "100%" }
+        {
+          "label": "Vendor Capacity",
+          "value": "50+ Vendors"
+        },
+        {
+          "label": "Reporting Speed",
+          "value": "+40%"
+        },
+        {
+          "label": "Accuracy",
+          "value": "100%"
+        }
       ],
       "details": [
         "Engineered interactive analytics dashboards with dynamic KPI visualizations, accelerating executive decision-making.",
         "Constructed automated invoice validation rules that eliminated manual data entry errors for 50+ major suppliers.",
         "Designed standardized responsive UI widgets with Material-UI and custom CSS design tokens."
       ],
-      "techStack": ["React.js", "Material-UI", "Tailwind CSS", "RESTful APIs", "Chart.js"],
+      "techStack": [
+        "React.js",
+        "Material-UI",
+        "Tailwind CSS",
+        "RESTful APIs",
+        "Chart.js"
+      ],
       "liveUrl": "",
       "githubUrl": "https://github.com/Rishav512"
     },
@@ -267,16 +462,31 @@
       "role": "Research Intern (ISRO)",
       "description": "Precision RF computational simulation and real-time Low Earth Orbit satellite pass telemetry monitoring system at ISTRAC.",
       "metrics": [
-        { "label": "Antenna Gain", "value": "+18%" },
-        { "label": "Bandwidth Efficiency", "value": "+15%" },
-        { "label": "Pass Frequency", "value": "2–4 GHz" }
+        {
+          "label": "Antenna Gain",
+          "value": "+18%"
+        },
+        {
+          "label": "Bandwidth Efficiency",
+          "value": "+15%"
+        },
+        {
+          "label": "Pass Frequency",
+          "value": "2–4 GHz"
+        }
       ],
       "details": [
         "Simulated 2–4 GHz S-band microstrip patch array antenna configurations on HFSS and CST Microwave Studio.",
         "Executed live telemetry verification protocols for LEO satellite operations during active ground station passes.",
         "Evaluated electromagnetic scattering and signal-to-noise thresholds for deep-space communications."
       ],
-      "techStack": ["HFSS", "CST Studio", "Python", "Data Processing", "LEO Telemetry"],
+      "techStack": [
+        "HFSS",
+        "CST Studio",
+        "Python",
+        "Data Processing",
+        "LEO Telemetry"
+      ],
       "liveUrl": "",
       "githubUrl": "https://github.com/Rishav512"
     }
